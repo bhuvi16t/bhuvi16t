@@ -8,9 +8,10 @@ exploring the endless possibilities data holds. Currently juggling two to three 
 📊 Exploring business intelligence & visualization techniques.
 
 ## 🔧 Skills
+- Data Analyst 
 - SQL, Python, Power BI, Excel
 - Data Cleaning, EDA, and Visualization
-- Machine Learning & Predictive Analytics
+- Machine Learning & Descriptive Statistics
 
 ## 📌 Projects
 - 🚀 [Retail Sales Analysis]([https://github.com/your-repo-link](https://github.com/bhuvi16t/Retail-sales-analysis-using-SQL))
