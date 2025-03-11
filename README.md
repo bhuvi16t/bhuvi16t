@@ -20,6 +20,12 @@ exploring the endless possibilities data holds. Currently juggling two to three 
 
 
 ## 📫 Connect with Me:
+<a href="https://www.linkedin.com/in/bhoopendra-vishwakarma/" target="_blank">
+    <button style="background-color:#0077b5; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:5px;">
+        Follow me on LinkedIn
+    </button>
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bhoopendra-vishwakarma/]) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://x.com/Bhupendra16x))  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]([https://instagram.com/your-profile](https://www.instagram.com/bhupendra_16x/))  
