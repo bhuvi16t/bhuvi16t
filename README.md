@@ -15,8 +15,8 @@ I'm getting hands-on experience with company tasks that challenge and excite me.
 
 ## 📌 Projects
 - 🚀 [Cancer Data Analysis](https://github.com/bhuvi16t/Cancer-Data-Analysis-Python)
-- 📊 [Amazon sales Analysis Dashboard ](https://github.com/bhuvi16t/Amazon-Sales-Analysis--Dashboard-PowerBI))
-- 📊 [Diwali-sales-Analysis](https://github.com/bhuvi16t/Diwali-sales-Analysis)))
+- 📊 [Amazon sales Analysis Dashboard ](https://github.com/bhuvi16t/Amazon-Sales-Analysis--Dashboard-PowerBI)
+- 📊 [Diwali-sales-Analysis](https://github.com/bhuvi16t/Diwali-sales-Analysis)
 - 📊 [POWER BI -PhonePe-Transaction-Dashboard ](https://github.com/bhuvi16t/Hotel-Booking-dashboard)
 
 
