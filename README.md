@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Bhoopendra Vishwakarma!
-As a 3rd-year BTech student with a passion for data, I'm diving deep into real-world projects,
-exploring the endless possibilities data holds. Currently juggling two to three internships
-I'm getting hands-on experience with company tasks that challenge and excite me.
+Welcome to my GitHub profile! I'm a Final-year BTech student with a passion for data, I'm diving deep into real-world projects,
+exploring the endless possibilities data holds.I'm getting hands-on experience with company tasks that challenge and excite me.
 
-# About Me 
+# 📌 About Me 
 - 💼 Aspiring Data Analyst
 - 🎓 Bachelor's in Computer Science Engineering (CSE)
 
