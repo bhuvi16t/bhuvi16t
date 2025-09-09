@@ -3,9 +3,9 @@ As a 3rd-year BTech student with a passion for data, I'm diving deep into real-w
 exploring the endless possibilities data holds. Currently juggling two to three internships
 I'm getting hands-on experience with company tasks that challenge and excite me.
 
-💡 **Data Analyst | SQL | Python | Power BI | Excel Enthusiast**  
-🎯 Passionate about data-driven decision-making and analytics.  
-📊 Exploring business intelligence & visualization techniques.
+# About Me 
+- 💼 Aspiring Data Analyst
+- 🎓 Bachelor's in Computer Science Engineering (CSE)
 
 ## 🔧 Tools and Languages 
 - Data Analyst 
